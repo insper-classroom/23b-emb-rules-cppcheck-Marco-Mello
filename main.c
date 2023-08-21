@@ -18,7 +18,7 @@ int main(void) {
         arr[i] = i;
     }
     arr[0] = result;
-    result = arr[1]
+    result = arr[1];
 
     return 0;
 }
