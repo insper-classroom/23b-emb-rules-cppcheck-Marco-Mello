@@ -11,8 +11,7 @@ int multiplyNumbers(int x, int y) {
 int main(void) {
     int a = 5;
     int b = 5;
-    int result;
-    result = multiplyNumbers(a, b);
+    int result = multiplyNumbers(a, b);
 
     int arr[NUM_ELEMENTS];
     for(int i = 0; i < NUM_ELEMENTS; i++) {
