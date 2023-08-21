@@ -17,6 +17,8 @@ int main(void) {
     for(int i = 0; i < NUM_ELEMENTS; i++) {
         arr[i] = i;
     }
+    arr[0] = result;
+    result = arr[1]
 
     return 0;
 }
