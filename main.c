@@ -18,5 +18,11 @@ int main(void) {
         arr[i] = i;
     }
 
+    if(result == 25 ){
+    }
+
+    if(arr[0] == 0){
+    }
+
     return 0;
 }
